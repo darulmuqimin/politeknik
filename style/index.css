@@ -1,0 +1,37 @@
+.jumbotron{
+	padding-top: 7rem;
+	background-color: #e2edff;
+	/* background-image: url(background/dm.png); */
+}
+
+
+#fortpolio{
+	background-color: #a4bde6;
+}
+
+
+footer p {
+	
+	color: white;
+
+
+
+}
+
+footer p:hover{
+	color: red;
+}
+
+section{
+	padding-top: 5rem;
+}
+
+.container1{
+	font-size: 30px;
+	color: red;
+	
+}
+
+h1{
+	font-family: 'Reem Kufi', sans-serif;
+}
